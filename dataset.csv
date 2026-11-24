@@ -1,0 +1,37 @@
+
+text,label
+"Remind me again tomorrow",Nagging
+"Subscribe now to receive updates",Nagging
+"Don't miss out on this offer",Nagging
+"Sign up to receive more notifications",Nagging
+"Keep showing me these offers",Nagging
+"Contact support to cancel your subscription",Obstruction
+"Cancellation is unavailable online",Obstruction
+"Call us to unsubscribe",Obstruction
+"Too many steps required to cancel",Obstruction
+"Make cancellation difficult",Obstruction
+"Additional charges apply at checkout",Sneaking
+"Hidden fees are added later",Sneaking
+"Extra fees apply to your order",Sneaking
+"Shipping cost revealed at the final step",Sneaking
+"An additional service fee is included",Sneaking
+"Recommended option is already selected",Interface Interference
+"Accept all is highlighted while reject is hidden",Interface Interference
+"Preselected premium membership",Interface Interference
+"Decline option is less visible",Interface Interference
+"Unbalanced visual emphasis between choices",Interface Interference
+"Sign up to continue shopping",Forced Action
+"Create an account to proceed",Forced Action
+"Login required to continue",Forced Action
+"Must register before viewing content",Forced Action
+"Provide personal details to access the feature",Forced Action
+"Welcome to our shopping website",Normal
+"View our latest products",Normal
+"Free delivery on selected orders",Normal
+"Read our privacy policy",Normal
+"Continue browsing products",Normal
+"Choose your preferred language",Normal
+"View product specifications",Normal
+"Your order has been confirmed",Normal
+"Contact our customer support team",Normal
+"Browse categories and collections",Normal
